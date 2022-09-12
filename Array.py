@@ -22,6 +22,7 @@ class Array(object):
             yield item
 
 
+# 错误测试
 class FullError(Exception):
     pass
 
