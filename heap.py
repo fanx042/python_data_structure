@@ -104,9 +104,11 @@ def test_heap():
         h.add(i)
     # print(h._elements._items)
     for i in reversed(range(n)):
-        print(i)
+        # print(i)
         assert i == h.extract()
         # print(h._elements._items)
+
+    print(len(h))
 
 
 test_heap()
