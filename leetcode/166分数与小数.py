@@ -29,6 +29,3 @@ class Solution:
             return sign + str(left_part) + '.' + right_part[:idx] + '(' + right_part[idx:]+')'
         else:
             return sign + str(left_part) + '.' + right_part
-        
-        
-        
