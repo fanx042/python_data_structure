@@ -1,0 +1,2 @@
+# leetcode的python解
+这里是记录了leetcode题目的python解法，不定期更新
