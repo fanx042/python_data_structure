@@ -2,9 +2,6 @@
     """
 
 
-from sqlite3 import adapt
-
-
 class Array(object):
     def __init__(self, size=10, init=None):
         self._size = size
